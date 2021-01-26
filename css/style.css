@@ -222,6 +222,7 @@ margin-right: auto;
   display: flex;
   margin-top: -155px;
   justify-content: space-between;
+  flex-wrap: wrap;
  
 }
 .product-presentation__inner{
