@@ -358,3 +358,9 @@ max-width: 160px;
   justify-content: space-between;
   flex-wrap: wrap;
 }
+
+
+
+.footer{
+  background-color: var(--black-dark);
+}
